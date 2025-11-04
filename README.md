@@ -7,7 +7,7 @@ The company generates revenue from purchases made by customers with diverse prof
 Despite having a large customer base, the company faces challenges in optimizing its marketing efforts due to the lack of targeted and efficient strategies. Therefore, data-driven insights are needed to enhance marketing effectiveness and improve customer engagement through **segmented marketing**.
 
 ## Problem Statement
-The company has been running various marketing campaigns. However, **customer response to marketing campaigns remains relatively low**, indicating that the **marketing strategy is not yet effective and efficient**.  
+The company has been running various marketing campaigns. However, **customer response to marketing campaigns remains relatively low** and **marketing strategy is not yet effective and efficient**.  
 This condition suggests that marketing budget allocation may not be optimized and could hinder revenue growth. Hence, the company needs a strategic data analysis approach to improve marketing efficiency through segmentation.
 
 ## Goals (Objectives)
