@@ -20,10 +20,9 @@ This condition suggests that marketing budget allocation may not be optimized an
 
 ## Tools & Libraries
 - **Python**: Data preprocessing, analysis, and visualization  
-- **Pandas, NumPy**: Data manipulation and aggregation  
-- **Matplotlib, Seaborn**: Visualization  
-- **SciPy**: Statistical tests and correlations  
-- **Tableau**: Dashboard visualization and storytelling  
+- **Pandas, NumPy**: Data manipulation and aggregation
+- **Matplotlib, Seaborn**: Visualization
+- **Tableau**: Dashboard visualization
 
 ## Output
 - Customer segmentation based on RFM scoring  
