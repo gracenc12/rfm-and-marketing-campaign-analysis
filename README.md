@@ -36,17 +36,7 @@ In a multichannel supermarket retail business, the company lacks a comprehensive
 
 ---
 
-## 5. Key Insights
-
-* **Frequency and Monetary** differ significantly across customer demographics, while **Recency** shows limited variation.
-* **High-value customers** are typically middle-aged or elderly, highly educated, high-income, and single without children.
-* Customers can be effectively grouped into **six RFM segments**, revealing clear behavioral differences.
-* **Top spenders contribute approximately 70% of total revenue**, highlighting the importance of retention-focused strategies.
-* Marketing campaign acceptance remains low, indicating that **mass campaigns are not effective** without segmentation.
-
----
-
-## 6. Conclusion & Strategic Recommendations
+## 5. Conclusion & Strategic Recommendations
 
 The analysis shows that customer behavior and value vary significantly across RFM segments, making **mass marketing strategies ineffective**.
 
@@ -58,5 +48,4 @@ To improve marketing efficiency and long-term revenue growth, the company should
 ---
 
 ## 7. Key Takeaway
-
-> **RFM-driven segmentation enables more effective marketing campaign strategy and stronger customer retention to support business and revenue growth through data-driven decision making.**
+- **RFM-driven segmentation enables more effective marketing campaign strategy and stronger customer retention to support business and revenue growth through data-driven decision making.**
