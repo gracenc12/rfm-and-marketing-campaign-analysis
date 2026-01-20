@@ -1,4 +1,4 @@
-# Marketing Data Analytics: RFM Segmentation and Marketing Strategy Optimization
+# Supermarket Customer Data Analysis : RFM Analysis & Marketing Campaign Strategy Optimization
 
 ## Background
 A company operating in the retail industry sells a wide range of products through multiple channels, including website, catalog, and offline stores.  
