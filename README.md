@@ -8,15 +8,15 @@ Data Source: [Data Source](https://www.kaggle.com/datasets/rodsaldanha/arketing-
 ## 1. Business Understanding
 
 The company is a **multichannel supermarket retailer** operating through **website, catalog, and offline stores**. Revenue is driven by customer purchase behavior across channels.
-Although comprehensive customer data is available (demographics, purchasing behavior, and complaint history), it has **not been fully utilized** to support customer segmentation and targeted marketing strategies.
+Although comprehensive customer data is available (demographics, purchasing behavior, and complaint history), it has not been fully utilized to support customer segmentation and targeted marketing and customer engagement strategies.
 
-This project applies **data-driven analysis** to **understand customer behavior**, ***identify high-value customers**, and **improve marketing effectiveness and customer retention**.
+This project applies **data-driven analysis** to **understand customer behavior**, **identify high-value customers**, and **improve marketing effectiveness and customer engagement strategy**.
 
 ---
 
 ## 2. Problem Statement
 
-In a multichannel supermarket retail business, the company lacks a comprehensive understanding of diverse customer purchasing behaviors across channels and faces low marketing campaign effectiveness due to mass-oriented strategies, which may increase customer churn risk and reduce customer loyalty. This analysis aims to address how customer behavior can be understood and segmented to enable targeted marketing campaigns and tailored retention strategies to drive campaign effectiveness and revenue growth.
+In a multichannel supermarket retail business, the company lacks a comprehensive understanding of diverse customer purchasing behaviors across channels and faces low marketing campaign effectiveness due to mass campaign, which may decrease and reduce customer engagement. This analysis aims to address how customer behavior can be understood and segmented to enable targeted marketing campaigns and tailored engagement strategies to drive campaign effectiveness and revenue growth.
 
 ---
 
@@ -25,7 +25,7 @@ In a multichannel supermarket retail business, the company lacks a comprehensive
 * Identify characteristics of **high-value customers**
 * Segment customers using **RFM analysis**
 * Evaluate **marketing campaign effectiveness**
-* Deliver **actionable business insights and strategy recommendations** based on data.
+* Deliver **actionable marketing insights and campaign & engagement strategy recommendations** based on data.
 
 ---
 
@@ -42,9 +42,9 @@ The analysis shows that customer behavior and value vary significantly across RF
 To improve marketing campaign efficiency and long-term revenue growth, the company should:
 
 * **Implement RFM-based customer segmentation** to replace mass marketing with targeted and personalized strategies.
-* **Apply different marketing campaign and retention approaches for each RFM segment**, aligned with customer behavior (Recency, Frequency, and Monetary).
+* **Apply different marketing campaign and customer engagement approaches for each RFM segment**, aligned with **customer behavior** (Recency, Frequency, and Monetary).
 
 ---
 
 ## 6. Key Takeaway
-- **RFM-driven segmentation enables more effective marketing campaign strategy and stronger customer retention to support business and revenue growth through data-driven decision making.**
+- **RFM-driven segmentation enables more effective marketing campaign and stronger customer engagement strategy to support business and revenue growth through data-driven decision making.**
