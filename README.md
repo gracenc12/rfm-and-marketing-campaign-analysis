@@ -31,20 +31,20 @@ In a multichannel supermarket retail business, the company lacks a comprehensive
 
 ## 4. Tools (Tech Stack)
 
-* **Python** (Pandas, NumPy) for data processing and analysis and (Matplotlib, Seaborn) for visualization
+* **Python**: Pandas & NumPy for data processing and analysis & Matplotlib, Seaborn for visualization
 
 ---
 
 ## 5. Conclusion & Strategic Recommendations
 
-The analysis shows that customer behavior and value vary significantly across RFM segments, making **mass marketing strategies ineffective**.
+The analysis shows that customer behavior and campaign acceptance vary significantly across RFM segments, making **mass marketing strategy is ineffective**.
 
 To improve marketing campaign efficiency and long-term revenue growth, the company should:
 
-* **Implement RFM-based customer segmentation** to replace mass marketing with targeted and personalized strategies.
-* **Apply different marketing campaign and customer engagement approaches for each RFM segment**, aligned with **customer behavior** (Recency, Frequency, and Monetary).
+* **Implement RFM-based customer segmentation** to **replace mass marketing campaign with targeted and personalized marketing strategies**.
+* **Apply different marketing campaign, retention & customer engagement approaches for every RFM segments**, aligned with **customer behavior** (Recency, Frequency, and Monetary).
 
 ---
 
 ## 6. Key Takeaway
-- **RFM-driven segmentation enables more effective marketing campaign and stronger customer engagement strategy to support business and revenue growth through data-driven decision making.**
+- **RFM-driven segmentation enables more effective marketing campaign, stronger retention and customer engagement strategy to support business and revenue growth through data-driven decision making.**
