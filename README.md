@@ -10,7 +10,7 @@ Data Source: [Data Source](https://www.kaggle.com/datasets/rodsaldanha/arketing-
 The company is a **multichannel supermarket retailer** operating through **website, catalog, and offline stores**. Revenue is driven by customer purchase behavior across channels.
 Although comprehensive customer data is available (demographics, purchasing behavior, and complaint history), it has not been fully utilized to support customer segmentation and targeted marketing and customer engagement strategies.
 
-This project applies **data-driven analysis** to **understand customer behavior**, **identify high-value customers**, and **improve marketing effectiveness and customer engagement strategy**.
+This project applies **data-driven analysis** to **understand customer behavior**, **identify high-value customers**, and **improve marketing effectiveness, retention and customer engagement strategy**.
 
 ---
 
