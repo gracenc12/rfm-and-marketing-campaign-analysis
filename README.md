@@ -25,7 +25,7 @@ In a multichannel supermarket retail business, the company lacks a comprehensive
 * Identify characteristics of **high-value customers**
 * Segment customers using **RFM analysis**
 * Evaluate **marketing campaign effectiveness**
-* Deliver **actionable marketing insights and campaign & engagement strategy recommendations** based on data.
+* Deliver **actionable marketing insights, campaign, retention and engagement strategy recommendations** based on data.
 
 ---
 
