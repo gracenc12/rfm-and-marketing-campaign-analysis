@@ -3,6 +3,8 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
 Analyzing Supermarket Customer Data
@@ -11,47 +13,55 @@ Data Source: [Data Source](https://www.kaggle.com/datasets/rodsaldanha/arketing-
 
 ---
 
-## 1. Business Understanding
+## Business Understanding
+The company is a multichannel supermarket retailer operating through website, catalog, and offline stores. Although rich customer data is available, it has not been fully utilized to support customer segmentation and targeted marketing strategies.
 
-The company is a **multichannel supermarket retailer** operating through **website, catalog, and offline stores**. Revenue is driven by customer purchase behavior across channels.
-Although comprehensive customer data is available (demographics, purchasing behavior, and complaint history), it has not been fully utilized to support customer segmentation and targeted marketing and customer engagement strategies.
-
-This project applies **data-driven analysis** to **understand customer behavior**, **identify high-value customers**, and **improve marketing effectiveness, retention and customer engagement strategy**.
+This project applies data-driven analysis to **understand customer purchasing behavior, identify high-value customers, and improve marketing effectiveness, retention, and customer engagement**.
 
 ---
 
-## 2. Problem Statement
-
-In a multichannel supermarket retail business, the company lacks a comprehensive understanding of diverse customer purchasing behaviors across channels and faces low marketing campaign effectiveness due to mass campaign, which may decrease and reduce customer engagement. This analysis aims to address how customer behavior can be understood and segmented to enable targeted marketing campaigns and tailored engagement strategies to drive campaign effectiveness and revenue growth.
-
----
-
-## 3. Goals/Objectives
-
-* Identify characteristics of **high-value customers**
-* Segment customers using **RFM analysis**
-* Evaluate **marketing campaign effectiveness**
-* Deliver **actionable marketing insights, campaign, retention and engagement strategy recommendations** based on data.
+## Problem Statement
+The company currently relies on mass marketing campaigns with low effectiveness due to limited understanding of customer behavior differences across segments. This may reduce engagement and increase churn risk.
 
 ---
 
-## 4. Tools (Tech Stack)
-
-* **Python**: Pandas & NumPy for data processing and analysis & Matplotlib, Seaborn for visualization.
-* **Tableau** : Interactive Dashboard
-
----
-
-## 5. Conclusion & Strategic Recommendations
-
-The analysis shows that customer behavior and campaign acceptance vary significantly across RFM segments, making **mass marketing strategy is ineffective**.
-
-To improve marketing campaign efficiency and long-term revenue growth, the company should:
-
-* **Implement RFM-based customer segmentation** to **replace mass marketing campaign with targeted and personalized marketing strategies**.
-* **Apply different marketing campaign, retention & customer engagement approaches for every RFM segments**, aligned with **customer behavior** (Recency, Frequency, and Monetary).
+## Objectives
+- Identify characteristics of high-value customers  
+- Segment customers using RFM analysis  
+- Evaluate marketing campaign effectiveness  
+- Provide actionable marketing, retention, and engagement strategies  
 
 ---
 
-## 6. Key Takeaway
-- **RFM-driven segmentation enables more effective marketing campaign, stronger retention and customer engagement strategy to support business and revenue growth through data-driven decision making.**
+## Key Insights
+- Customer behavior varies significantly across RFM segments.
+- High-value customers are not only found in Champions; declining segments also contribute substantial revenue.
+- Around **30% of customers are in segments at risk of churn**, indicating potential revenue leakage.
+- Campaign response aligns with customer engagement level, proving that mass campaigns are inefficient.
+- High-value but declining segments remain responsive to campaigns, creating strong opportunities for targeted reactivation.
+
+---
+
+## Conclusion & Recommendations
+- Implement **RFM-based segmentation** to replace mass marketing campaigns.
+- Apply **targeted and personalized strategies** for each customer segment.
+- Prioritize retention and revenue protection for high-value customers at risk of churn.
+- Use data-driven engagement strategies to improve campaign effectiveness and long-term growth.
+
+---
+
+## Key Takeaway
+**RFM-driven segmentation enables more effective marketing campaigns, stronger customer retention, and better engagement to support sustainable revenue growth through data-driven decision making.**
+
+---
+
+## Output
+- RFM segmentation analysis  
+- Marketing campaign effectiveness evaluation  
+- Strategic marketing & retention recommendations  
+- Interactive Tableau Dashboard and Presentation Slides  
+
+---
+
+## 👤 Author
+Grace — Data Analyst Portfolio Project
