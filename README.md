@@ -64,4 +64,4 @@ The company currently relies on mass marketing campaigns with low effectiveness 
 ---
 
 ## 👤 Author
-Grace — Data Analyst Portfolio Project
+Grace Natalie Catherine | Data Analyst Portfolio Project
