@@ -50,16 +50,16 @@ The company currently relies on mass marketing campaigns with low effectiveness 
 
 ---
 
-## Key Takeaway
-**RFM-driven segmentation enables more effective marketing campaigns, stronger customer retention, and better engagement to support sustainable revenue growth through data-driven decision making.**
-
----
-
 ## Output
 - RFM segmentation analysis  
 - Marketing campaign effectiveness evaluation  
 - Strategic marketing & retention recommendations  
 - Interactive Tableau Dashboard and Presentation Slides  
+
+---
+
+## Key Takeaway
+**RFM-driven segmentation enables more effective marketing campaigns, stronger customer retention, and better engagement to support sustainable revenue growth through data-driven decision making.**
 
 ---
 
